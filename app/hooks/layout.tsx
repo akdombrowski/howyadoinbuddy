@@ -1,5 +1,3 @@
-'use client';
-
 import { use } from 'react';
 import { fetchCategories } from '@/lib/getCategories';
 import { Boundary } from '@/ui/Boundary';

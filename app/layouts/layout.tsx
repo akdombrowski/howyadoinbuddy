@@ -1,5 +1,3 @@
-'use client';
-
 import { fetchCategories } from '@/lib/getCategories';
 import ClickCounter from '@/ui/ClickCounter';
 import React, { use } from 'react';
