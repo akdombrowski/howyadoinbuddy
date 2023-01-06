@@ -1,3 +1,5 @@
+'use client';
+
 import { Boundary } from '@/ui/Boundary';
 import React from 'react';
 
